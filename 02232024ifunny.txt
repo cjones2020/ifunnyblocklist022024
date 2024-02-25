@@ -11,7 +11,6 @@
 167.235.118.103	api.bidmachine.io
 69.20.43.195	api.iad3rs0zone1.pubnative.net
 69.20.13.1	api.iad3rs0zone2.pubnative.net
-38.134.113.246	api.ifunny.mobi
 35.190.43.134	api.snapkit.com
 172.240.102.220	api-us-was.bidmachine.io
 185.151.204.12	app.adjust.com
@@ -75,7 +74,6 @@
 3.161.225.28	imageproxy.ifunny.co
 23.47.48.122	images-na.ssl-images-amazon.com
 34.160.119.165	img.applovin.com
-18.161.156.78	img.ifunny.co
 108.156.224.63	impression.appsflyer.com
 18.233.123.55	impression-east.liftoff.io
 3.122.16.67	impression-europe.liftoff.io
